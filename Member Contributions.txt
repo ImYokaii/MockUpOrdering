@@ -1,0 +1,9 @@
+Contributions:
+Balais, Mary Angelene 
+- Receipt Function and Counting of Order Quantity
+Caballes, Janne Zxell 
+- Budget Calculation and Order Calculation
+Retuerma, Masayuki 
+- Debugging and Decision Making to Receipt
+Trinidad, Matthew Francis King 
+- Order Decision Making and Budget blocking Menu
